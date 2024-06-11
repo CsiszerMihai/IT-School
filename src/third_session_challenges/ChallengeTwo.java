@@ -1,4 +1,4 @@
-package Third_Session_Challenges;
+package third_session_challenges;
 
 public class ChallengeTwo {
 
