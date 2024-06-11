@@ -1,5 +1,4 @@
 package third_session_challenges;
-
 import java.util.Scanner;
 
 public class ChallengeTen {
