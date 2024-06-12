@@ -1,10 +1,12 @@
+package first_session_challenges;
+
 public class ChallengeTwo {
 
     public static void main(String[] args) {
         int favNumber = 72;
         double pi = 3.14;
         char threatClass = 'S';
-        String messageGreeting = "Hello, how may I assisst you today?";
+        String messageGreeting = "Hello, how may I assist you today?";
 
         System.out.println(favNumber);
         System.out.println(pi);

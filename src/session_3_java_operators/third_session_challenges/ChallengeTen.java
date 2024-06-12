@@ -5,7 +5,7 @@ public class ChallengeTen {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter an integer to be inversed: ");
+        System.out.println("Enter an integer to be inverted: ");
         int number = scanner.nextInt();
 
         int invers = -number;
