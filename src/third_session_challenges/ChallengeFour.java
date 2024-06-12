@@ -12,7 +12,7 @@ public class ChallengeFour {
 
         while (count > 0) {
             System.out.println(count);
-            --count; //functioneaza si predecrement si postdecrement
+            --count;
         }
     }
 }

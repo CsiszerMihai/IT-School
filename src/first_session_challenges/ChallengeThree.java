@@ -1,7 +1,6 @@
 public class ChallengeThree {
 
     public static void main(String[] args) {
-
         int numberOne = 2;
         int numberTwo = 2;
 

@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class ChallengeOne {
 
     public static void main(String[] args) {
-
         Scanner scanner = new Scanner(System.in);
         System.out.print("Please enter a number: ");
         double num1 = scanner.nextDouble();
@@ -22,6 +21,5 @@ public class ChallengeOne {
         System.out.println("Produsul celor doua numere: " + multiply);
         System.out.println("Catul impartirii celor doua numere: " + divide);
         System.out.println("Restul impartirii celor doua numere: " + rest);
-
     }
 }

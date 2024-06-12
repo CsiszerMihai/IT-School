@@ -4,12 +4,9 @@ import java.util.Scanner;
 public class ChallengeThirteen {
 
     public static void main(String[] args) {
-
         Scanner scanner = new Scanner(System.in);
-
         System.out.println("Enter the original price of the discounted product: ");
         double priceOriginal = scanner.nextDouble();
-
         System.out.println("Enter the percentage you want to discount: ");
         double discountPercentage = scanner.nextDouble();
 

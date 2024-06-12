@@ -1,7 +1,6 @@
 public class ChallengeTwo {
 
     public static void main(String[] args) {
-
         int favNumber = 72;
         double pi = 3.14;
         char threatClass = 'S';
@@ -11,6 +10,5 @@ public class ChallengeTwo {
         System.out.println(pi);
         System.out.println(threatClass);
         System.out.println(messageGreeting);
-
     }
 }

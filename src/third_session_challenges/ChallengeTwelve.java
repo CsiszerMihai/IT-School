@@ -4,9 +4,7 @@ import java.util.Scanner;
 public class ChallengeTwelve {
 
     public static void main(String[] args) {
-
         Scanner scanner = new Scanner(System.in);
-
         System.out.println("Enter an integer:");
         int numberInteger = scanner.nextInt();
 
@@ -16,7 +14,5 @@ public class ChallengeTwelve {
         numberInteger--;
         numberInteger--;
         System.out.println("Your number decremented is: " + numberInteger);
-
-
     }
 }

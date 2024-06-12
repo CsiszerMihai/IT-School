@@ -5,9 +5,7 @@ import java.util.Scanner;
 public class ChallengeEleven {
 
     public static void main(String[] args) {
-
         Scanner scanner = new Scanner(System.in);
-
         System.out.println("Enter a boolean to be negated: ");
         boolean a = scanner.nextBoolean();
 
@@ -16,7 +14,6 @@ public class ChallengeEleven {
 
         boolean aNegativ = !a;
         boolean bNegativ = !b;
-
         System.out.println("Your negated booleans are: " + aNegativ + "," + " respectively " + bNegativ);
     }
 }
