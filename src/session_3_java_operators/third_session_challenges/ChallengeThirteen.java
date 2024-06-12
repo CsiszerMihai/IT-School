@@ -1,4 +1,4 @@
-package third_session_challenges;
+package session_3_java_operators.third_session_challenges;
 import java.util.Scanner;
 
 public class ChallengeThirteen {
