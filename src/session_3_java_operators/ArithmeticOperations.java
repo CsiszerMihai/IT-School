@@ -2,9 +2,8 @@ package session_3_java_operators;
 
 public class ArithmeticOperations {
 
-    //psvm - generate main method
     public static void main(String[] args) {
-        int firstNumber = 10;
+        int firstNumber = 11;
         int secondNumber = 2;
 
         int sum = firstNumber + secondNumber;
