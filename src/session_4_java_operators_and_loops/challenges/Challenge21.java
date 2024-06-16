@@ -14,6 +14,6 @@ public class Challenge21 {
                      (score >= 70) ? 'C' :
                      (score >= 60) ? 'D' :
                      'F';
-        System.out.println("The student's grade is: " + grade);}
+        System.out.println("The student's grade is: " + grade);
     }
 }
