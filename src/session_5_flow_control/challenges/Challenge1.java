@@ -9,7 +9,7 @@ public class Challenge1 {
         System.out.println("enter a number");
         int nextNumber = sc.nextInt();
 
-        if(nextNumber % 2 == 0){
+        if (nextNumber % 2 == 0) {
             System.out.println("number is even");
         } else {
             System.out.println("number is odd");
