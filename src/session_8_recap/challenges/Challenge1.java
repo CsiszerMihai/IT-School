@@ -32,5 +32,6 @@ public class Challenge1 {
             default:
                 System.out.println("Error on user input, try again");
         }
+        sc.close();
     }
 }
