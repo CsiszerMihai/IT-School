@@ -8,7 +8,7 @@ public class Course {
     private String description;
     private Professors assignedProfessor;
 
-    // Constructor
+
     public Course(int courseId, String courseName, String schedule, String duration, String description, Professors assignedProfessor) {
         this.courseId = courseId;
         this.courseName = courseName;
