@@ -7,10 +7,6 @@ public class Student {
     String name;
     int age;
 
-    public void displayDetails() {
-        System.out.println("Name: " + name + " Age: " + age);
-    }
-
     @Override
     public String toString() {
         return "Name: " + name + " Age: " + age;
@@ -27,5 +23,9 @@ public class Student {
     @Override
     public int hashCode() {
         return Objects.hash(name, age);
+    }
+
+    public Object getStudentId() {
+        return null;
     }
 }
