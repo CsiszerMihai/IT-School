@@ -1,0 +1,2 @@
+Problem 7
+Use Java streams to generate a list of the first 10 prime numbers greater than 100.
